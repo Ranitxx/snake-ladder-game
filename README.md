@@ -35,7 +35,7 @@ https://github.com/Prashant0664/snake-and-ladder/assets/98750053/2ffed578-2341-4
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/prashant0664/snake-and-ladder.git
+   git clone https://github.com/Ranitxx/snake-and-ladder.git
 
 2. Navigate to the project directory:
 
@@ -76,7 +76,7 @@ Contributions to the project are welcome! If you find any bugs or want to add ne
 For any inquiries or feedback, please contact:
 
 Prashant <br/>
-Email: `prashant201103@gmail.com`
+Email: `ranitg584@gmail.com`
 
 ## Learn More
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
